@@ -48,8 +48,7 @@ Polimorfismo/
 
     └── AppTest01.java
 
-## <img width="967" height="773" alt="image" src="https://github.com/user-attachments/assets/13275dc5-f38e-4691-9c28-f388beebbb81" />
-Tecnologias utilizadas
+## Tecnologias utilizadas
 
 ☕ Java 17+
 
