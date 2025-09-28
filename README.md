@@ -1,10 +1,10 @@
-🧠 #Polimorfismo em Java – Sistema de Cálculo de Impostos
+## 🧠 Polimorfismo em Java – Sistema de Cálculo de Impostos
 
 Este projeto foi desenvolvido com o objetivo de praticar conceitos fundamentais de Programação Orientada a Objetos (POO) em Java, com foco especial em polimorfismo e interfaces.
 
 A aplicação simula um sistema simples de cálculo de impostos para diferentes tipos de produtos, mostrando como diferentes classes podem compartilhar comportamentos através de uma interface e ao mesmo tempo ter implementações específicas.
 
-🚀 ##Funcionalidades
+## 🚀 Funcionalidades
 
 Cálculo de imposto para diferentes produtos (Notebook, Televisão, Bebidas e Frutas).
 
@@ -14,7 +14,7 @@ Aplicação do polimorfismo, permitindo que diferentes objetos sejam manipulados
 
 Exibição do valor do imposto e do valor final de cada produto.
 
-🧩 ##Conceitos aplicados
+## 🧩 Conceitos aplicados
 
 🔁 Polimorfismo: Permite que objetos de diferentes classes sejam tratados de forma uniforme, usando a referência da classe pai (Produto) para chamar métodos específicos de cada classe filha.
 
@@ -22,21 +22,33 @@ Exibição do valor do imposto e do valor final de cada produto.
 
 🏗️ Herança: As classes Notebook, Televisao, Bebidas e Frutas herdam de Produto, aproveitando atributos e comportamentos comuns.
 
-📂 ##Estrutura do projeto
+## 📂 Estrutura do projeto
+
 Polimorfismo/
+
 ├── Dominio/
+
 │   ├── Produto.java
+
 │   ├── Impostos.java
+
 │   ├── Notebook.java
+
 │   ├── Televisao.java
+
 │   ├── Bebidas.java
+
 │   └── Frutas.java
+
 ├── servico/
+
 │   └── CalcularImposto.java
+
 └── AppTest/
+
     └── AppTest01.java
 
-##Tecnologias utilizadas
+##  Tecnologias utilizadas
 
 ☕ Java 17+
 
